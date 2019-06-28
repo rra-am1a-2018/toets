@@ -22,25 +22,24 @@
     <table class="table">
   <thead>
     <tr>
-      <th scope="col">llnr</th>
-      <th scope="col">Voornaam</th>
-      <th scope="col">Tussenvoegsel</th>
-      <th scope="col">Achternaam</th>
-      <th scope="col">Afstudeerrichting</th>
-      <th scope="col">Avatar</th>
-
+    <th scope="col">Leerling nummer</th>
+    <th scope="col">Voornaam</th>
+    <th scope="col">Tussenvoegsel</th>
+    <th scope="col">Achternaam</th>
+    <th scope="col">Afstudeer richting</th>
+    <th scope="col">Avatar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+    <tr>
+          <th scope="row">320713</th>
+          <td>Jordy</td>
+          <td></td>
+          <td>Legemaat</td>
+          <td>Game</td>
+          <td><img src="../img/kunst.jpg" height="35px" width="35px"></td>
+        </tr>
   </tbody>
 </table> 
   </body>
