@@ -32,6 +32,14 @@
                 </tr>
             </thead>
             <tbody>
+            <tr>
+                    <th scope="row">320282</th>
+                    <td>Sven</td>
+                    <td>webdevsven</td>
+                    <td><img src="./img/banaan.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/sven_webdevsven.php">Mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
                 <tr>
                     <th scope="row">324643</th>
                     <td>boris</td>
