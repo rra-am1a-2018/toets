@@ -30,8 +30,8 @@
                 <td>collin</td>
                 <td></td>
                 <td>markus</td>
+                <td>webdeveloper</td>
                 <td></td>
-                <td><img src="../img/ollie.jpg" width="40px" height="40px" /></td>
             </tr>
     </tbody>
     </table>
