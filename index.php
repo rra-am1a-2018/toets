@@ -41,6 +41,14 @@
                     <td><a href="./homepages/Iwan_IJuanTM.php">Iwan's Pagina</a></td>
                     <td>minstens een 1</td>
                 </tr>
+                <tr>
+                <th scope="row">322085</th>
+                    <td>Wob</td>
+                    <td>Fatpike</td>
+                    <td><img src="./img/wubbit.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/wob_Fatpike.php">Mijn pagina</a></td>
+                    <td>∞</td>
+                </tr>
             </tbody>
         </table>
     </div>
