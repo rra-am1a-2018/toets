@@ -45,6 +45,7 @@
     </tr>
   </tbody>
 </table>
+<a href="../index.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Back to index</a>
       </div>
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
