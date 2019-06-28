@@ -30,7 +30,7 @@
                 <td>Richard</td>
                 <td>van de</td>
                 <td>Kooij</td>
-                <td></td>
+                <td>Webdeveloper</td>
                 <td></td>
                 </tr>
             </tbody>
