@@ -27,7 +27,7 @@
                     <td>Luuk</td>
                     <td>van</td>
                     <td>Es</td>
-                    <td></td>
+                    <td>Game</td>
                     <td><img src="./img/" width="40px" height="40px" /></td>
                 </tr>
             </tbody>
