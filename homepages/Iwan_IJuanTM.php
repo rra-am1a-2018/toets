@@ -60,8 +60,8 @@
                         <tr>
                             <th scope="col">Leerlingnummer</th>
                             <th scope="col">Voornaam</th>
-                            <th scope="col">Tussenvoegsel</th>
-                            <!-- <th scope="col">Achternaam</th> -->
+                            <th scope="col">Tussenvoegsels</th>
+                            <th scope="col">Achternaam</th>
                             <!-- <th scope="col">Afstudeerrichting</th> -->
                             <!-- <th scope="col">Avatar</th> -->
                         </tr>
@@ -72,7 +72,7 @@
                             <td>326650</td>
                             <td>Iwan</td>
                             <td>van der</td>
-                            <!-- <td>Wal</td> -->
+                            <td>Wal</td>
                             <!-- <td>Web Development</td> -->
                             <!-- <td><img src="./img/IJuanTM.png"></td> -->
                         </tr>
