@@ -47,7 +47,6 @@
         <div class="row">
             <div class="col-12">
                 <h1>Hello There</h1>
-                <a href="./index.php" class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Terug naar Index</a>
             </div>
         </div>
 
