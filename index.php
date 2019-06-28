@@ -82,21 +82,14 @@
                     <td><a href="./homepages/Richard_RiDiCage.php">Mijn pagina</a></td>
                     <td>++</td>
                 </tr>
+                <tr>
                 <th scope="row">322961</th>
-<<<<<<< HEAD
                     <td>Robin</td>
                     <td>van den Hoeven</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
->>>>>>> 5979225ee65635d8baba69ee7b2b3d59ac91563f
-=======
-                <td>Robin</td>
-                <td>van den Hoeven</td>
-                <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
-                <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
-                <td>We zien t wel</td>
->>>>>>> 46175fc42092c4ee5264c4b01dce6e97d9f827d4
+</tr>
             </tbody>
         </table>
     </div>
