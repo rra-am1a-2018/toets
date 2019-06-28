@@ -128,6 +128,14 @@
                     <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
                     <td>60 kilo</td>
                 </tr>
+                <tr>
+                    <th scope="row">322774</th>
+                    <td>Elias</td>
+                    <td>EliasOusji</td>
+                    <td><img src="./img/Tony.png" width="35px" height="35px" /></td>
+                    <td><a href="./homepages/Elias_EliasOusji.php">Mijn pagina</a></td>
+                    <td>6+</td>
+                </tr>
 <<<<<<< HEAD
 
 >>>>>>> e91e7a21d22322f62e8d03206f56826b5f1347c5
