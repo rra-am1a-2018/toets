@@ -123,7 +123,7 @@
                 <tr>
                 <th scope="row">321589</th>
                     <td>Mert baba</td>
-                    <td>Unlu</td>
+                    <td>mert241</td>
                     <td><img src="./img/recep.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/mert_mert241.php">Mijn pagina</a></td>
                     <td>xx</td>
@@ -161,11 +161,11 @@
                     <td><a href="./homepages/Mohamed_mohamednndiaye.php">Mijn pagina</a></td>
                     <td>10</td>
                 </tr>
-                
+
                 <tr>
                     <th scope="row">319807</th>
                     <td>Luuk</td>
-                    <td>van Es</td>
+                    <td>luukves</td>
                     <td><img src="./img/luuk.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/luuk_luukves.php">Mijn Pagina</a></td>
                     <td>8</td>
