@@ -32,7 +32,7 @@
                 </tr>
             </thead>
             <tbody>
-            <tr>
+                <tr>
                     <th scope="row">324643</th>
                     <td>boris</td>
                     <td>boris241</td>
@@ -90,7 +90,7 @@
                     <td>20</td>
                 </tr>
                 <tr>
-                <th scope="row">310426</th>
+                    <th scope="row">310426</th>
                     <td>Richard</td>
                     <td>RiDi Cage</td>
                     <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
@@ -98,13 +98,22 @@
                     <td>++</td>
                 </tr>
                 <tr>
-                <th scope="row">322961</th>
+                    <th scope="row">322961</th>
                     <td>Robin</td>
                     <td>van den Hoeven</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
-                    </tr>
+                </tr>
+                <tr>
+                    <th scope="row">320713</th>
+                    <td>Jordy Legemaat</td>
+                    <td>jordylegemaat</td>
+                    <td><img src="./img/kunst.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
+                    <td>60 kilo</td>
+                </tr>
+
             </tbody>
         </table>
     </div>
