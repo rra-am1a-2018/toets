@@ -38,7 +38,7 @@
                     <td>webdevsven</td>
                     <td><img src="./img/banaan.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/sven_webdevsven.php">Mijn pagina</a></td>
-                    <td>10</td>
+                    <td>9</td>
                 </tr>
                 <tr>
                     <th scope="row">324643</th>
@@ -46,7 +46,7 @@
                     <td>boris241</td>
                     <td><img src="./img/boris.png" width="35px" height="35px" /></td>
                     <td><a href="./homepages/boris_boris241.php">Mijn pagina</a></td>
-                    <td>6+</td>
+                    <td>8</td>
                 </tr>
                 <tr>
                     <th scope="row">19686</th>
@@ -54,7 +54,7 @@
                     <td>rra-am1c-2018</td>
                     <td><img src="./img/broc.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">Mijn pagina</a></td>
-                    <td>10+</td>
+                    <td>1</td>
                 </tr>
                 <tr>
                     <th scope="row">320022</th>
@@ -62,7 +62,7 @@
                     <td>edgartje2002</td>
                     <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/edgar_edgartje2002.php">Mijn pagina</a></td>
-                    <td>10+</td>
+                    <td>6</td>
                 </tr>
                 <tr>
                     <th scope="row">323702</th>
@@ -70,14 +70,15 @@
                     <td>Yoerivdb</td>
                     <td><img src="./img/pf.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Yoeri_Yoerivdb.php">Mijn pagina</a></td>
-                    <td>1+</td>
+                    <td>9</td>
                 </tr>
+                <tr>
                     <th scope="row">321091</th>
                     <td>Mick</td>
                     <td>MSchrijvers</td>
                     <td><img src="./img/opblaasbootje.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/mick_Mschrijvers.php">Mijn pagina</a></td>
-                    <td>6+</td>
+                    <td>3</td>
                 </tr>
                 <tr>
                     <th scope="row">326650</th>
@@ -85,7 +86,7 @@
                     <td>IJuanTM</td>
                     <td><img src="./img/IJuanTM.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Iwan_IJuanTM.php">Mijn pagina</a></td>
-                    <td>minstens een 1</td>
+                    <td>10</td>
                 </tr>
                 <tr>
                     <th scope="row">322085</th>
@@ -93,7 +94,7 @@
                     <td>Fatpike</td>
                     <td><img src="./img/wubbit.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/wob_Fatpike.php">Mijn pagina</a></td>
-                    <td>∞</td>
+                    <td>10</td>
                 </tr>
                 <tr>
                     <th scope="row">320656</th>
@@ -101,7 +102,7 @@
                     <td>dirkvansoest</td>
                     <td><img src="./img/geo-nav.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/dirk_dirkvansoest.php">Mijn pagina</a></td>
-                    <td>20</td>
+                    <td>4</td>
                 </tr>
                 <tr>
                     <th scope="row">310426</th>
@@ -109,40 +110,40 @@
                     <td>RiDi Cage</td>
                     <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Richard_RiDiCage.php">Mijn pagina</a></td>
-                    <td>++</td>
+                    <td>10</td>
                 </tr>
                 <tr>
                     <th scope="row">322961</th>
                     <td>Robin</td>
-                    <td>van den Hoeven</td>
+                    <td>J3wellZ</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Mijn pagina</a></td>
-                    <td>We zien t wel</td>
-                    </tr>
-                    
+                    <td>10</td>
+                </tr>
                 <tr>
-                <th scope="row">321589</th>
+                    <th scope="row">321589</th>
                     <td>Mert baba</td>
                     <td>mert241</td>
                     <td><img src="./img/recep.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/mert_mert241.php">Mijn pagina</a></td>
-                    <td>xx</td>
+                    <td>4</td>
                     </tr>
                 </tr>
                 <tr>
                     <th scope="row">322105</th>
-                    <td>collin</td>
+                    <td>Collin</td>
                     <td>collinmarkus</td>
                     <td><img src="./img/ollie.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Collin_collinmarkus.php">Mijn pagina</a></td>
-                    <td>dikke vette 3</td>
+                    <td>8</td>
                 </tr>
+                <tr>
                     <th scope="row">320713</th>
                     <td>Jordy Legemaat</td>
                     <td>jordylegemaat</td>
                     <td><img src="./img/kunst.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/jordy_jordylegemaat.php">Mijn pagina</a></td>
-                    <td>60 kilo</td>
+                    <td>9</td>
                 </tr>
                 <tr>
                     <th scope="row">322774</th>
@@ -150,27 +151,24 @@
                     <td>EliasOusji</td>
                     <td><img src="./img/Tony.png" width="35px" height="35px" /></td>
                     <td><a href="./homepages/Elias_EliasOusji.php">Mijn pagina</a></td>
-                    <td>6+</td>
+                    <td>8</td>
                 </tr>
-
                 <tr>
                 <th scope="row">312816</th>
                     <td>Mohamed</td>
                     <td>Mohamednndiaye</td>
                     <td><img src="./img/Mo.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Mohamed_mohamednndiaye.php">Mijn pagina</a></td>
-                    <td>10</td>
+                    <td>3</td>
                 </tr>
-
                 <tr>
                     <th scope="row">319807</th>
                     <td>Luuk</td>
                     <td>luukves</td>
                     <td><img src="./img/luuk.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/luuk_luukves.php">Mijn Pagina</a></td>
-                    <td>8</td>
+                    <td>10</td>
                 </tr>
-
             </tbody>
         </table>
     </div>
