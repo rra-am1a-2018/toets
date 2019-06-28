@@ -29,7 +29,7 @@
       <td></td>
       <td>kalachian</td>
       <td>web</td>
-      <td><img src="" alt="Smiley face" height="42" width="42"></td>
+      <td><img src="./toets/img/steen.jpg" alt="Smiley face" height="42" width="42"></td>
 
 
     </tr>
