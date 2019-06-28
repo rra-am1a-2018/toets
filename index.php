@@ -40,7 +40,6 @@
                     <td><a href="./homepages/boris_boris241.php">Mijn pagina</a></td>
                     <td>6+</td>
                 </tr>
-
                 <tr>
                     <th scope="row">19686</th>
                     <td>Arjan</td>
@@ -120,7 +119,6 @@
                     <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
                     <td>60 kilo</td>
                 </tr>
-
             </tbody>
         </table>
     </div>
