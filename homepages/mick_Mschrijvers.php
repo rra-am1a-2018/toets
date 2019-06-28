@@ -8,32 +8,35 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Toets</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
     <div class="container-fluid">
-    <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">llnr</th>
-      <th scope="col">voornaam</th>
-      <th scope="col">tussenvoegsel</th>
-      <th scope="col">achternaam</th>
-      <th scope="col">afstudeerrichting</th>
-      <th scope="col">avatar</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">320282</th>
-      <td>Sven</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-    </div>
+        <h1>Toets</h1>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">llnr</th>
+                    <th scope="col">Voornaam</th>
+                    <th scope="col">Githubnaam</th>
+                    <th scope="col">Avatar</th>
+                    <th scope="col">afstudeerrichting</th>
+                    <th scope="col">Cijfer voor pagina</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">321091</th>
+                    <td>Mick</td>
+                    <td>MickSchrijvers</td>
+                    <td><img src="../img/opblaasbootje.jpg" width="40px" height="40px" /></td>
+                    <td>Webdeveloper</td>
+                    <td>6</td>
+                </tr>
+            </tbody>
+        </table>
+        <a class="btn btn-secondary btn-lg btn-block" href="../index.php" role="button">Terug</a>
+      </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
