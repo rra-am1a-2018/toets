@@ -31,6 +31,14 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
+                <tr>
+                    <th scope="row">321091</th>
+                    <td>Mick</td>
+                    <td>MSchrijvers</td>
+                    <td><img src="./img/opblaasbootje.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mick_Mschrijvers.php">mijn homepage</a></td>
+                    <td>6+</td>
+                </tr>
             </tbody>
         </table>
       </div>
