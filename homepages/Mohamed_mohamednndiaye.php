@@ -35,7 +35,7 @@
       <td>Geen</td>
       <td>Ndiaye</td>
       <td>Afstudeerrichting</td>
-      <td></td>
+      <td>Damso</td>
     </tr>
    
   </tbody>
