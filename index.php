@@ -49,6 +49,14 @@
                     <td><a href="./homepages/wob_Fatpike.php">Mijn pagina</a></td>
                     <td>∞</td>
                 </tr>
+                <tr>
+                    <th scope="row">322961</th>
+                    <td>Robin</td>
+                    <td>van den Hoeven</td>
+                    <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
+                    <td>We zien t wel</td>
+                </tr>
             </tbody>
         </table>
     </div>
