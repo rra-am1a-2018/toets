@@ -13,7 +13,6 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
       <!-- Table -->
   <table class="table table-hover table-light">
       <thead class=thead-dark>
@@ -28,11 +27,12 @@
       </thead>
       <tbody>
         <tr>
-          <th scope="row">Wob</th>
+          <th scope="row">322085</th>
+          <td>Wob</td>
           <td></td>
           <td>Jelsma</td>
           <td>Webdevelopment</td>
-          <td><img src="./img/wubbit.png" height="35px" width="35px"></td>
+          <td><img src="../img/wubbit.png" height="35px" width="35px"></td>
         </tr>
       </tbody>
     </table>
