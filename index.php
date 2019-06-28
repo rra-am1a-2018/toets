@@ -50,6 +50,14 @@
                     <td>∞</td>
                 </tr>
                 <tr>
+                    <th scope="row">320656</th>
+                    <td>Dirk</td>
+                    <td>dirkvansoest</td>
+                    <td><img src="./img/geo-nav.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dirk_dirkvansoest.php">mijn homepage</a></td>
+                    <td>20</td>
+                </tr>
+                <tr>
                 <th scope="row">310426</th>
                     <td>Richard</td>
                     <td>RiDi Cage</td>
