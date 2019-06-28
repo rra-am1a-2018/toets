@@ -96,7 +96,15 @@
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
-                    </tr>
+                </tr>
+                <tr>
+                    <th scope="row">322105</th>
+                    <td>collin</td>
+                    <td>collinmarkus</td>
+                    <td><img src="./img/ollie.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Collin_collinmarkus.php.php">Collin's Pagina</a></td>
+                    <td>dikke vette 3</td>
+                </tr>
             </tbody>
         </table>
     </div>
