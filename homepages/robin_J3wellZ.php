@@ -35,6 +35,10 @@
       <th scope="row">Achternaam:</th>
       <td>Hoeven</td>
     </tr>
+    <tr>
+      <th scope="row">Afstudeerrichting:</th>
+      <td>Applicatie ontwikkelaar</td>
+    </tr>
   </tbody>
 </table>
       </div>
