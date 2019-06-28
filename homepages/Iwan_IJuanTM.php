@@ -63,7 +63,7 @@
                             <th scope="col">Tussenvoegsels</th>
                             <th scope="col">Achternaam</th>
                             <th scope="col">Afstudeerrichting</th>
-                            <!-- <th scope="col">Avatar</th> -->
+                            <th scope="col">Avatar</th>
                         </tr>
                     </thead>
 
@@ -74,7 +74,7 @@
                             <td>van der</td>
                             <td>Wal</td>
                             <td>Web Development</td>
-                            <!-- <td><img src="./img/IJuanTM.png"></td> -->
+                            <td><img src="./img/IJuanTM.png"></td>
                         </tr>
                     </tbody>
 
