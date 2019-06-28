@@ -58,7 +58,6 @@
                     <td>10+</td>
                 </tr>
                 <tr>
-<<<<<<< HEAD
                     <th scope="row">323702</th>
                     <td>Yoeri</td>
                     <td>Yoerivdb</td>
@@ -66,7 +65,7 @@
                     <td><a href="./homepages/Yoeri_Yoerivdb.php">mijn homepage</a></td>
                     <td>1+</td>
                 </tr>
-=======
+                <tr>
                     <th scope="row">321091</th>
                     <td>Mick</td>
                     <td>MSchrijvers</td>
@@ -123,7 +122,6 @@
                     <td>60 kilo</td>
                 </tr>
 
->>>>>>> 8809a46b73573f4842d68e7f615e42399388fca2
             </tbody>
         </table>
     </div>
