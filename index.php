@@ -79,6 +79,14 @@
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
                 </tr>
+                <tr>
+                    <th scope="row">319807</th>
+                    <td>Luuk</td>
+                    <td>van Es</td>
+                    <td><img src="./img/luuk.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/luuk_luukves.php">Mijn Pagina</a></td>
+                    <td>8</td>
+                </tr>
                 
             </tbody>
         </table>
