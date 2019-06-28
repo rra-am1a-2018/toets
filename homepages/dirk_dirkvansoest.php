@@ -31,7 +31,7 @@
                     <td>Dirkvansoest</td>
                     <td><img src="../img/geo-nav.jpg" width="40px" height="40px" /></td>
                     <td>Webdevelopment</td>
-                    <td>20</td>
+                    <td>9001</td>
                 </tr>
             </tbody>
         </table>
