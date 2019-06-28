@@ -34,7 +34,7 @@
     </tr>
   </tbody>
 </table>
-<a class="btn btn-primary" href="../index.php" role="button">Ga terug!</a>
+<a class="btn btn-primary" href="../index.php" role="button">Ga terug naar index.php</a>
     </div>
 
     <!-- Optional JavaScript -->
