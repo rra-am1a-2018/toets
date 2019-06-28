@@ -19,28 +19,20 @@
       <th scope="col">tussenvoegsel</th>
       <th scope="col">achternaam</th>
       <th scope="col">afstudeerrichting</th>
-      <th scope="col"></th>
+      <th scope="col">Avatar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">323702</th>
+      <td>Yoeri</td>
+      <td>van den</td>
+      <td>Berg</td>
+      <td>ICT</td>
+      <td><img src="./img/pf.jpg" width="40px" height="40px" /></td>
+      
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
+
   </tbody>
 </table>
  </div>
