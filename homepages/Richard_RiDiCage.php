@@ -12,7 +12,7 @@
   </head>
   <body>
     <div class="container-fluid">
-    <h1>Hello, world!</h1>
+    <h1>Homepage Richard</h1>
         <table class="table table-striped table-dark">
             <thead>
                 <tr>
