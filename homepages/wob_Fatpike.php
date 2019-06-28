@@ -13,7 +13,6 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
       <!-- Table -->
   <table class="table table-hover table-light">
       <thead class=thead-dark>
@@ -26,6 +25,7 @@
           <th scope="col">Avatar</th>
         </tr>
       </thead>
+</table>
 
       
     <a class="btn btn-outline-dark btn-lg btn-block" href="index.php" role="button">Ga terug!</a>
