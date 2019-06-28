@@ -53,7 +53,7 @@
                 <th scope="row">310426</th>
                     <td>Richard</td>
                     <td>RiDi Cage</td>
-                    <td><img src="" width="40px" height="40px" /></td>
+                    <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Richard_RiDiCage.php">Mijn pagina</a></td>
                     <td>++</td>
                 </tr>
