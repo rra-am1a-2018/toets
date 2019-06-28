@@ -39,6 +39,10 @@
       <th scope="row">Afstudeerrichting:</th>
       <td>Applicatie ontwikkelaar</td>
     </tr>
+    <tr>
+      <th scope="row">Avatar:</th>
+      <td><img src="../img/robin.jpg" width="50px" height="50px"></td>
+    </tr>
   </tbody>
 </table>
       </div>
