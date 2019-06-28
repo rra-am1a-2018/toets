@@ -34,12 +34,12 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
+      <td>320713</td>
+      <td>Jordy</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Legemaat</td>
+      <td>Game</td>
+      <td><img src="../img/kunst.jpg" height="35px" width="35px"></td>
     </tr>
   </tbody>
 </table> 
