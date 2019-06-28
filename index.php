@@ -137,7 +137,6 @@
                     <td><a href="./homepages/Collin_collinmarkus.php">Collin's Pagina</a></td>
                     <td>dikke vette 3</td>
                 </tr>
-=======
                     <th scope="row">320713</th>
                     <td>Jordy Legemaat</td>
                     <td>jordylegemaat</td>
