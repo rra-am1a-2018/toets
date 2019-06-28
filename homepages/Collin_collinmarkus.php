@@ -18,8 +18,8 @@
             <tr>
                 <th scope="col">llnr</th>
                 <th scope="col">Voornaam</th>
-                <th scope="col">Githubnaam</th>
-                <th scope="col">Avatar</th>
+                <th scope="col">tussenvoegsel</th>
+                <th scope="col">achternaam</th>
                 <th scope="col">afstudeerrichting</th>
                 <th scope="col">avatar</th>
             </tr>
@@ -29,7 +29,7 @@
                 <th scope="row">322105</th>
                 <td>collin</td>
                 <td></td>
-                <td></td>
+                <td>markus</td>
                 <td></td>
                 <td><img src="../img/ollie.jpg" width="40px" height="40px" /></td>
             </tr>
