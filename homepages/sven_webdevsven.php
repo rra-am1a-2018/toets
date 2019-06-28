@@ -31,7 +31,7 @@
       <td>de</td>
       <td>Oudakker</td>
       <td>Applicatie en media ontwikkelaar</td>
-      <td><img width="40px" height="40px" src="./toets/img/banaan.jpg"></td>
+      <td><img src="toets/img/banaan.jpg"></td>
     </tr>
   </tbody>
 </table>
