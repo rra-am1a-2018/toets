@@ -13,8 +13,8 @@
 <body>
     <div class="container-fluid">
         <h1>Toets - AM1A</h1>
-        <table class="table table-hover table-striped table-dark">
-            <thead>
+        <table class="table table-hover table-light">
+            <thead class=thead-dark>
                 <tr>
                     <th scope="col">llnr</th>
                     <th scope="col">Voornaam</th>
