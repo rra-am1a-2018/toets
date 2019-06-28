@@ -29,12 +29,13 @@
                     <th scope="row">320656</th>
                     <td>Dirk</td>
                     <td>Dirkvansoest</td>
-                    <td><img src="./img/geo-nav.jpg" width="40px" height="40px" /></td>
+                    <td><img src="../img/geo-nav.jpg" width="40px" height="40px" /></td>
                     <td>Webdeveloper</td>
                     <td>20</td>
                 </tr>
             </tbody>
         </table>
+        <a class="btn btn-secondary btn-lg btn-block" href="../index.php" role="button">Ga naar index!</a>
       </div>
 
     <!-- Optional JavaScript -->
