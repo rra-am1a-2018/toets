@@ -11,7 +11,6 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
     <div class="container-fluid">
     <table class="table">
   <thead>
@@ -31,11 +30,11 @@
       <td>de</td>
       <td>Oudakker</td>
       <td>Applicatie en media ontwikkelaar</td>
-      <td><img src="./toets/img/banaan.jpg"></td>
+      <td><img width="40px" height="40px" src="../img/banaan.jpg"></td>
     </tr>
-    <button href="./index.php" type="submit" class="btn btn-primary">Primary</button>
   </tbody>
 </table>
+<a class="btn btn-primary" href="../index.php" role="button">Ga terug!</a>
     </div>
 
     <!-- Optional JavaScript -->
