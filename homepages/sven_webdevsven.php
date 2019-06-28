@@ -30,6 +30,7 @@
       <td>Sven</td>
       <td>de</td>
       <td>Oudakker</td>
+      <td>Applicatie en media ontwikkelaar</td>
     </tr>
   </tbody>
 </table>
