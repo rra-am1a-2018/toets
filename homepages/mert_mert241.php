@@ -8,38 +8,43 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Toets</title>
-    </head>
-    <body>
-      <div class="container-fluid">
-        <h1>Toets</h1>
-        <table class="table table-hover">
-        <thead>
-            <tr>
-                <th scope="col">llnr</th>
-                <th scope="col">Voornaam</th>
-                <th scope="col">tussenvoegsel</th>
-                <th scope="col">achternaam</th>
-                <th scope="col">afstudeerrichting</th>
-                <th scope="col">avatar</th>
-            </tr>
-        </thead>
-    <tbody>
-            <tr>
-                <th scope="row">322105</th>
-                <td>collin</td>
-                <td></td>
-                <td>markus</td>
-                <td>webdeveloper</td>
-                <td><img src="../img/ollie.jpg" width="40px" height="40px" /></td>
-            </tr>
-    </tbody>
-    </table>
-    <a class="btn btn-secondary btn-lg btn-block" href="../index.php" role="button">Terug naar index.</a>
-    </div>
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    
+    <main>
+    <div class="container-fluid">
 
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">llnr</th>
+      <th scope="col">Voornaam</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Afstudeerrichting</th>
+      <th scope="col">Avatar</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">321589</th>
+      <td>Mert</td>
+      <td>Unlu</td>
+      <td>Frond end, veiligprogrameren en applicatie</td>
+      <td>Unlu</td>
+      
+    </tr>
+
+<a class="btn btn-primary" href="http://www.versiebeheer.nl/index.php" role="button">Terug</a>  
 
     
+    </div> 
+    
+    
+    
+    </main>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
