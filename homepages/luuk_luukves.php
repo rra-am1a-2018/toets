@@ -28,7 +28,7 @@
                     <td>van</td>
                     <td>Es</td>
                     <td>Game</td>
-                    <td><img src="./img/" width="40px" height="40px" /></td>
+                    <td><img src="./img/luuk.png" width="40px" height="40px" /></td>
                 </tr>
             </tbody>
         </table>
