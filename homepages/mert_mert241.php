@@ -11,31 +11,39 @@
     <title>Hello, world!</title>
   </head>
   <body>
+    
+    <main>
     <div class="container-fluid">
+
     <table class="table">
   <thead>
     <tr>
       <th scope="col">llnr</th>
-      <th scope="col">voornaam</th>
-      <th scope="col">tussenvoegsel</th>
-      <th scope="col">achternaam</th>
-      <th scope="col">afstudeerrichting</th>
-      <th scope="col">avatar</th>
+      <th scope="col">Voornaam</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Afstudeerrichting</th>
+      <th scope="col">Avatar</th>
+      
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">320282</th>
-      <td>Sven</td>
-      <td>de</td>
-      <td>Oudakker</td>
-      <td>Applicatie en media ontwikkelaar</td>
-      <td><img width="40px" height="40px" src="../img/banaan.jpg"></td>
+      <th scope="row">321589</th>
+      <td>Mert</td>
+      <td>Unlu</td>
+      <td>Frond end, veiligprogrameren en applicatie</td>
+      <td>Unlu</td>
+      
     </tr>
-  </tbody>
-</table>
-<a class="btn btn-primary" href="../index.php" role="button">Ga terug!</a>
-    </div>
+
+<a class="btn btn-primary" href="http://www.versiebeheer.nl/index.php" role="button">Terug</a>  
+
+    
+    </div> 
+    
+    
+    
+    </main>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

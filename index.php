@@ -110,9 +110,17 @@
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
+                    </tr>
+                    <th scope="row">321589</th>
+                <tr>
+                    <td>Mert</td>
+                    <td>Unlu</td>
+                    <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mert_mert241.php">mert's Pagina</a></td>
+                    <td>xx</td>
+                    </tr>
                 </tr>
                 <tr>
-<<<<<<< HEAD
                     <th scope="row">322105</th>
                     <td>collin</td>
                     <td>collinmarkus</td>
@@ -128,11 +136,7 @@
                     <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
                     <td>60 kilo</td>
                 </tr>
-<<<<<<< HEAD
 
->>>>>>> e91e7a21d22322f62e8d03206f56826b5f1347c5
-=======
->>>>>>> f5f54b752343bdd41d9d67c2957a15bd1c1497d5
             </tbody>
         </table>
     </div>
