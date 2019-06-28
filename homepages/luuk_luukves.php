@@ -33,7 +33,7 @@
             </tbody>
         </table>
 
-        <a role="button" class="btn btn-success btn-lg btn-block" href="../">Block level button</a>
+        <a role="button" class="btn btn-success btn-lg btn-block" href="../">Home</a>
       </div>
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
