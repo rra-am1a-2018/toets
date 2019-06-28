@@ -10,7 +10,7 @@
 
     <style>
         body {
-            background-color: blue;
+            background-color: white;
         }
     </style>
 
@@ -40,7 +40,6 @@
                     <td><a href="./homepages/boris_boris241.php">Mijn pagina</a></td>
                     <td>6+</td>
                 </tr>
-
                 <tr>
                     <th scope="row">19686</th>
                     <td>Arjan</td>
@@ -58,6 +57,13 @@
                     <td>10+</td>
                 </tr>
                 <tr>
+                    <th scope="row">323702</th>
+                    <td>Yoeri</td>
+                    <td>Yoerivdb</td>
+                    <td><img src="./img/pf.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Yoeri_Yoerivdb.php">mijn homepage</a></td>
+                    <td>1+</td>
+                </tr>
                     <th scope="row">321091</th>
                     <td>Mick</td>
                     <td>MSchrijvers</td>
@@ -106,6 +112,15 @@
                     <td>We zien t wel</td>
                 </tr>
                 <tr>
+<<<<<<< HEAD
+                    <th scope="row">322105</th>
+                    <td>collin</td>
+                    <td>collinmarkus</td>
+                    <td><img src="./img/ollie.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Collin_collinmarkus.php">Collin's Pagina</a></td>
+                    <td>dikke vette 3</td>
+                </tr>
+=======
                     <th scope="row">320713</th>
                     <td>Jordy Legemaat</td>
                     <td>jordylegemaat</td>
@@ -113,7 +128,11 @@
                     <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
                     <td>60 kilo</td>
                 </tr>
+<<<<<<< HEAD
 
+>>>>>>> e91e7a21d22322f62e8d03206f56826b5f1347c5
+=======
+>>>>>>> f5f54b752343bdd41d9d67c2957a15bd1c1497d5
             </tbody>
         </table>
     </div>
