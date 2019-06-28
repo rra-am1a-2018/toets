@@ -40,7 +40,7 @@
       <td>Applicatie ontwikkelaar</td>
     </tr>
     <tr>
-      <th scope="row">Avatar:</th>
+      <th scope="row">Avatarr:</th>
       <td><img src="./img/Tony.jpg" width="50px" height="50px"></td>
     </tr>
   </tbody>
