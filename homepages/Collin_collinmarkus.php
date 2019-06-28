@@ -10,35 +10,8 @@
 
     <title>Hello, world!</title>
   </head>
-  <div class="container-fluid">
-  <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">IInr</th>
-      <th scope="col">voornaam</th>
-      <th scope="col">tussenvoegsel</th>
-      <th scope="col">achternaam</th>
-      <th scope="col">afstudeerrichting</th>
-      <th scope="col">Avatar</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">323702</th>
-      <td>Yoeri</td>
-      <td>van den</td>
-      <td>Berg</td>
-      <td>Webdev</td>
-      <td><img src="../img/pf.jpg" width="40px" height="40px" /></td>
-      
-    </tr>
-
-  </tbody>
-</table>
-<a class="btn btn-secondary btn-lg btn-block" href="../index.php" role="button">Terug</a>
- </div>
   <body>
-    <h1></h1>
+    <h1>Hello, world!</h1>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

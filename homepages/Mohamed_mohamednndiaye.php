@@ -1,3 +1,7 @@
+<?php
+  echo "Mijn homepage";
+?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -8,37 +12,35 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Mohamed Ndiaye</title>
   </head>
-  <div class="container-fluid">
-  <table class="table">
+  <body>
+    <div class="container-fluid">
+    <table class="table table-dark">
   <thead>
     <tr>
-      <th scope="col">IInr</th>
-      <th scope="col">voornaam</th>
-      <th scope="col">tussenvoegsel</th>
-      <th scope="col">achternaam</th>
-      <th scope="col">afstudeerrichting</th>
+      <th scope="col">llnr</th>
+      <th scope="col">Voornaam</th>
+      <th scope="col">Tussenvoegsel</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Afstudeerrichting</th>
       <th scope="col">Avatar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">323702</th>
-      <td>Yoeri</td>
-      <td>van den</td>
-      <td>Berg</td>
-      <td>Webdev</td>
-      <td><img src="../img/pf.jpg" width="40px" height="40px" /></td>
-      
+      <th scope="row">1</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
-
+   
   </tbody>
 </table>
-<a class="btn btn-secondary btn-lg btn-block" href="../index.php" role="button">Terug</a>
- </div>
-  <body>
-    <h1></h1>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

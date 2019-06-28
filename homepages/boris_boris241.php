@@ -8,38 +8,35 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+
   </head>
+  <body>
   <div class="container-fluid">
   <table class="table">
   <thead>
     <tr>
-      <th scope="col">IInr</th>
+      <th scope="col">llnr</th>
       <th scope="col">voornaam</th>
       <th scope="col">tussenvoegsel</th>
       <th scope="col">achternaam</th>
       <th scope="col">afstudeerrichting</th>
-      <th scope="col">Avatar</th>
+      <th scope="col">avatar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">323702</th>
-      <td>Yoeri</td>
-      <td>van den</td>
-      <td>Berg</td>
-      <td>Webdev</td>
-      <td><img src="../img/pf.jpg" width="40px" height="40px" /></td>
-      
+      <th scope="row">324643</th>
+      <td>boris</td>
+      <td></td>
+      <td>waterhout</td>
+      <td>web</td>
+      <td><img src="../img/boris241.png" height="35px" width="35px"></td>
     </tr>
-
   </tbody>
 </table>
-<a class="btn btn-secondary btn-lg btn-block" href="../index.php" role="button">Terug</a>
- </div>
-  <body>
-    <h1></h1>
+</div>
 
+<a class="btn btn-primary" href="../index.php" role="button">go back</a>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
