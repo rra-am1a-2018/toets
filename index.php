@@ -50,13 +50,19 @@
                     <td>∞</td>
                 </tr>
                 <tr>
-                    <th scope="row">322961</th>
+                <th scope="row">310426</th>
+                    <td>Richard</td>
+                    <td>RiDi Cage</td>
+                    <td><img src="" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Richard_RiDiCage.php">Mijn pagina</a></td>
+                    <td>++</td>
+                </tr>
+                <th scope="row">322961</th>
                     <td>Robin</td>
                     <td>van den Hoeven</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
-                </tr>
             </tbody>
         </table>
     </div>
