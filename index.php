@@ -80,13 +80,6 @@
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
                 </tr>
-                <tr>
-                    <td>Robin</td>
-                    <td>van den Hoeven</td>
-                    <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
-                    <td>We zien t wel</td>
-                </tr>
             </tbody>
         </table>
     </div>
