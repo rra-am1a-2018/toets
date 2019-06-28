@@ -34,7 +34,7 @@
       <td>Mohamed</td>
       <td>Geen</td>
       <td>Ndiaye</td>
-      <td></td>
+      <td>Afstudeerrichting</td>
       <td></td>
     </tr>
    
