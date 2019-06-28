@@ -10,7 +10,7 @@
 
     <style>
         body {
-            background-color: pink;
+            background-color: blue;
         }
     </style>
 
@@ -33,11 +33,28 @@
             </thead>
             <tbody>
                 <tr>
+                    <th scope="row">324643</th>
+                    <td>boris</td>
+                    <td>boris241</td>
+                    <td><img src="./img/boris.png" width="35px" height="35px" /></td>
+                    <td><a href="./homepages/boris_boris241.php">Mijn pagina</a></td>
+                    <td>6+</td>
+                </tr>
+
+                <tr>
                     <th scope="row">19686</th>
                     <td>Arjan</td>
                     <td>rra-am1c-2018</td>
                     <td><img src="./img/broc.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
+                    <td><a href="../index.php">mijn homepage</a></td>
+                    <td>10+</td>
+                </tr>
+                <tr>
+                    <th scope="row">320022</th>
+                    <td>edgar</td>
+                    <td>edgartje2002</td>
+                    <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/edgar_edgartje2002.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
                 <tr>
@@ -65,6 +82,14 @@
                     <td>∞</td>
                 </tr>
                 <tr>
+                    <th scope="row">320656</th>
+                    <td>Dirk</td>
+                    <td>dirkvansoest</td>
+                    <td><img src="./img/geo-nav.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dirk_dirkvansoest.php">mijn homepage</a></td>
+                    <td>20</td>
+                </tr>
+                <tr>
                     <th scope="row">310426</th>
                     <td>Richard</td>
                     <td>RiDi Cage</td>
@@ -80,6 +105,15 @@
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
                 </tr>
+                <tr>
+                    <th scope="row">320713</th>
+                    <td>Jordy Legemaat</td>
+                    <td>jordylegemaat</td>
+                    <td><img src="./img/kunst.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
+                    <td>60 kilo</td>
+                </tr>
+
             </tbody>
         </table>
     </div>
