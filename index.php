@@ -49,6 +49,14 @@
                     <td><a href="./homepages/wob_Fatpike.php">Mijn pagina</a></td>
                     <td>∞</td>
                 </tr>
+                <tr>
+                <th scope="row">310426</th>
+                    <td>Richard</td>
+                    <td>RiDi Cage</td>
+                    <td><img src="" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Richard_RiDiCage.php">Mijn pagina</a></td>
+                    <td>++</td>
+                </tr>
             </tbody>
         </table>
     </div>

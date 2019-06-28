@@ -8,34 +8,34 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Toets</title>
   </head>
   <body>
     <div class="container-fluid">
-    <h1>Hello, world!</h1>
-        <table class="table table-striped table-dark">
+        <h1>Toets</h1>
+        <table class="table table-hover">
             <thead>
                 <tr>
-                <th scope="col">LLnr</th>
-                <th scope="col">voornaam</th>
-                <th scope="col">tussenvoegsel</th>
-                <th scope="col">achternaam</th>
-                <th scope="col">afstudeerrichting</th>
-                <th scope="col">avatar</th>
+                    <th scope="col">llnr</th>
+                    <th scope="col">Voornaam</th>
+                    <th scope="col">Githubnaam</th>
+                    <th scope="col">Avatar</th>
+                    <th scope="col">afstudeerrichting</th>
+                    <th scope="col">Cijfer voor pagina</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                <th scope="row">310426</th>
-                <td>Richard</td>
-                <td>van de</td>
-                <td>Kooij</td>
-                <td>Webdeveloper</td>
-                <td><img src="" /></td>
+                    <th scope="row">320656</th>
+                    <td>Dirk</td>
+                    <td>Dirkvansoest</td>
+                    <td><img src="./img/geo-nav.jpg" width="40px" height="40px" /></td>
+                    <td>Webdeveloper</td>
+                    <td>20</td>
                 </tr>
             </tbody>
         </table>
-    </div>
+      </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
