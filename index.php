@@ -97,6 +97,15 @@
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
                     </tr>
+                    <tr>
+                    <th scope="row">320713</th>
+                    <td>Jordy Legemaat</td>
+                    <td>jordylegemaat</td>
+                    <td><img src="./img/kunst.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
+                    <td>60 kilo</td>
+                    </tr>
+                    
             </tbody>
         </table>
     </div>
