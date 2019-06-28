@@ -50,7 +50,6 @@
                     <td>10+</td>
                 </tr>
                 <tr>
-<<<<<<< HEAD
                     <th scope="row">321091</th>
                     <td>Mick</td>
                     <td>MSchrijvers</td>
@@ -58,7 +57,6 @@
                     <td><a href="./homepages/mick_Mschrijvers.php">mijn homepage</a></td>
                     <td>6+</td>
                 </tr>
-=======
                     <th scope="row">326650</th>
                     <td>Iwan</td>
                     <td>IJuanTM</td>
