@@ -26,8 +26,18 @@
           <th scope="col">Avatar</th>
         </tr>
       </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Wob</th>
+          <td></td>
+          <td>Jelsma</td>
+          <td>Webdevelopment</td>
+          <td><img src="./img/FatpikeAvatar.png" height="35px" width="35px"></td>
+        </tr>
+      </tbody>
+    </table>
 
-      
+
     <a class="btn btn-outline-dark btn-lg btn-block" href="index.php" role="button">Ga terug!</a>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
