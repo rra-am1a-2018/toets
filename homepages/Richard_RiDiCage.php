@@ -31,7 +31,7 @@
                 <td>van de</td>
                 <td>Kooij</td>
                 <td>Webdeveloper</td>
-                <td></td>
+                <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
                 </tr>
             </tbody>
         </table>
