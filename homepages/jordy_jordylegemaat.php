@@ -42,5 +42,6 @@
         </tr>
   </tbody>
 </table> 
+<a class="btn btn-outline-dark btn-lg btn-block" href="../index.php" role="button">Ga terug!</a>
   </body>
 </html>
