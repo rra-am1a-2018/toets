@@ -28,10 +28,12 @@
                     <td>van</td>
                     <td>Es</td>
                     <td>Game</td>
-                    <td><img src="./img/luuk.png" width="40px" height="40px"></td>
+                    <td><img src="../img/luuk.png" width="40px" height="40px"></td>
                 </tr>
             </tbody>
         </table>
+
+        <a role="button" class="btn btn-success btn-lg btn-block" href="../">Block level button</a>
       </div>
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
