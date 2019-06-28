@@ -25,7 +25,7 @@
                 <tr>
                     <th scope="row">319807</th>
                     <td>Luuk</td>
-                    <td></td>
+                    <td>van</td>
                     <td></td>
                     <td></td>
                     <td><img src="./img/" width="40px" height="40px" /></td>
