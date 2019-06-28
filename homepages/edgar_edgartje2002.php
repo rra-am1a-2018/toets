@@ -30,7 +30,7 @@
       <td>kalachian</td>
       <td>web</td>
       <td><img src="./toets/img/steen.jpg" alt="Smiley face" height="42" width="42"></td>
-
+      <a class="btn btn-primary" href="../" role="terug">Link</a>
 
     </tr>
      </tbody>
