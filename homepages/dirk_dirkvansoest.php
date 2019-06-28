@@ -30,7 +30,7 @@
                     <td>Dirk</td>
                     <td>Dirkvansoest</td>
                     <td><img src="../img/geo-nav.jpg" width="40px" height="40px" /></td>
-                    <td>Webdeveloper</td>
+                    <td>Webdevelopment</td>
                     <td>20</td>
                 </tr>
             </tbody>
