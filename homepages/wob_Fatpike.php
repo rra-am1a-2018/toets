@@ -32,7 +32,7 @@
           <td></td>
           <td>Jelsma</td>
           <td>Webdevelopment</td>
-          <td><img src="./img/FatpikeAvatar.png" height="35px" width="35px"></td>
+          <td><img src="./img/wubbit.png" height="35px" width="35px"></td>
         </tr>
       </tbody>
     </table>
