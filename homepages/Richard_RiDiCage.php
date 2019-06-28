@@ -11,34 +11,37 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <div class="container-fluid">
-    <h1>Homepage Richard</h1>
-        <table class="table table-striped table-dark">
-            <thead>
-                <tr>
-                <th scope="col">LLnr</th>
-                <th scope="col">voornaam</th>
-                <th scope="col">tussenvoegsel</th>
-                <th scope="col">achternaam</th>
-                <th scope="col">afstudeerrichting</th>
-                <th scope="col">avatar</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                <th scope="row">310426</th>
-                <td>Richard</td>
-                <td>van de</td>
-                <td>Kooij</td>
-                <td>Webdeveloper</td>
-                <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
-                </tr>
-            </tbody>
-        </table>
-                
-        <a href="../index.php" type="button" class="btn btn-dark btn-lg">Dark</a>
-    </div>
-
+    <h1>Hello, world!</h1>
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>@mdo</td>
+            </tr>
+            <tr>
+            <th scope="row">2</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+            </tr>
+            <tr>
+            <th scope="row">3</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
