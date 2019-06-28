@@ -25,14 +25,18 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">324643</th>
+      <td>boris</td>
+      <td></td>
+      <td>waterhout</td>
+      <td>web</td>
+      <td><img src="../img/boris241.png" height="35px" width="35px"></td>
     </tr>
   </tbody>
 </table>
 </div>
+
+<a class="btn btn-primary" href="../index.php" role="button">go back</a>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
