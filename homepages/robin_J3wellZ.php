@@ -27,6 +27,10 @@
       <th scope="row">Voornaam:</th>
       <td>Robin</td>
     </tr>
+    <tr>
+      <th scope="row">Tussenvoegsel:</th>
+      <td>van den</td>
+    </tr>
   </tbody>
 </table>
       </div>
