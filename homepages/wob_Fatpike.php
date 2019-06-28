@@ -14,6 +14,20 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
+      <!-- Table -->
+  <table class="table table-hover table-light">
+      <thead class=thead-dark>
+        <tr>
+          <th scope="col">Leerling nummer</th>
+          <th scope="col">Voornaam</th>
+          <th scope="col">Tussenvoegsel</th>
+          <th scope="col">Achternaam</th>
+          <th scope="col">Afstudeer richting</th>
+          <th scope="col">Avatar</th>
+        </tr>
+      </thead>
+
+      
     <a class="btn btn-outline-dark btn-lg btn-block" href="index.php" role="button">Ga terug!</a>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
