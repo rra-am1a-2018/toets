@@ -11,33 +11,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <div class="container-fluid">
-    <h1>Homepage Richard</h1>
-        <table class="table table-striped table-dark">
-            <thead>
-                <tr>
-                <th scope="col">LLnr</th>
-                <th scope="col">voornaam</th>
-                <th scope="col">tussenvoegsel</th>
-                <th scope="col">achternaam</th>
-                <th scope="col">afstudeerrichting</th>
-                <th scope="col">avatar</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                <th scope="row">310426</th>
-                <td>Richard</td>
-                <td>van de</td>
-                <td>Kooij</td>
-                <td>Webdeveloper</td>
-                <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
-                </tr>
-            </tbody>
-        </table>
-                
-        <a href="../index.php" type="button" class="btn btn-dark btn-lg btn-block">Dark</a>
-    </div>
+    <h1>Hello, world!</h1>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

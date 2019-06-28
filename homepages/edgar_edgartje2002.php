@@ -7,37 +7,37 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-    <title>Hello, world!</title>
   </head>
   <body>
-    <div class="container-fluid">
-    <h1>Homepage Richard</h1>
-        <table class="table table-striped table-dark">
-            <thead>
-                <tr>
-                <th scope="col">LLnr</th>
-                <th scope="col">voornaam</th>
-                <th scope="col">tussenvoegsel</th>
-                <th scope="col">achternaam</th>
-                <th scope="col">afstudeerrichting</th>
-                <th scope="col">avatar</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                <th scope="row">310426</th>
-                <td>Richard</td>
-                <td>van de</td>
-                <td>Kooij</td>
-                <td>Webdeveloper</td>
-                <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
-                </tr>
-            </tbody>
-        </table>
-                
-        <a href="../index.php" type="button" class="btn btn-dark btn-lg btn-block">Dark</a>
+  <div class="container-fluid">
+  <table class="table table-striped table-dark">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">llnr</th>
+      <th scope="col">voornaam</th>
+      <th scope="col">tussenvoegsel</th>
+      <th scope="col">achternaam</th>
+      <th scope="col">web</th>
+      <th scope="col">avatar</th>
+      <th scope="col">knop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>320022</td>
+      <td>edgar</td>
+      <td></td>
+      <td>kalachian</td>
+      <td>web</td>
+      <td><img src="../img/steen.jpg" alt="niks" height="42" width="42"></td>
+      <td><a class="btn btn-primary" href="../index.php" role="link">terug</a></td>
     </div>
+    </tr>
+     </tbody>
+</table>
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
