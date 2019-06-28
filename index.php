@@ -31,6 +31,14 @@
                     <td><a href="../index.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
+                <tr>
+                    <th scope="row">320022</th>
+                    <td>edgar</td>
+                    <td>edgartje2002</td>
+                    <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./">mijn homepage</a></td>
+                    <td>10+</td>
+                </tr>
             </tbody>
         </table>
       </div>
