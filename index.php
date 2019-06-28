@@ -122,7 +122,7 @@
                     
                 <tr>
                 <th scope="row">321589</th>
-                    <td>Mert</td>
+                    <td><font size="+4">Mert baba</font></td>
                     <td>Unlu</td>
                     <td><img src="./img/recep.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/mert_mert241.php">mert's Pagina</a></td>
