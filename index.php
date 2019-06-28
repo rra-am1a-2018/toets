@@ -32,6 +32,14 @@
                 </tr>
             </thead>
             <tbody>
+            <tr>
+                    <th scope="row">320282</th>
+                    <td>Sven</td>
+                    <td>webdevsven</td>
+                    <td><img src="./img/banaan.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/sven_webdevsven.php">Mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
                 <tr>
                     <th scope="row">324643</th>
                     <td>boris</td>
@@ -110,9 +118,18 @@
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
+                    </tr>
+                    
+                <tr>
+                <th scope="row">321589</th>
+                    <td>Mert</td>
+                    <td>Unlu</td>
+                    <td><img src="./img/recep.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mert_mert241.php">mert's Pagina</a></td>
+                    <td>xx</td>
+                    </tr>
                 </tr>
                 <tr>
-<<<<<<< HEAD
                     <th scope="row">322105</th>
                     <td>collin</td>
                     <td>collinmarkus</td>
@@ -128,6 +145,7 @@
                     <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
                     <td>60 kilo</td>
                 </tr>
+<<<<<<< HEAD
                 <tr>
                     <th scope="row">322774</th>
                     <td>Elias</td>
@@ -137,10 +155,9 @@
                     <td>6+</td>
                 </tr>
 <<<<<<< HEAD
-
->>>>>>> e91e7a21d22322f62e8d03206f56826b5f1347c5
 =======
->>>>>>> f5f54b752343bdd41d9d67c2957a15bd1c1497d5
+>>>>>>> f01712f4fe96c59dd703ed095ce8ae0b57a4c570
+
             </tbody>
         </table>
     </div>
