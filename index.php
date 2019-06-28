@@ -13,8 +13,8 @@
 <body>
     <div class="container-fluid">
         <h1>Toets - AM1A</h1>
-        <table class="table table-hover">
-            <thead>
+        <table class="table table-hover table-light">
+            <thead class=thead-dark>
                 <tr>
                     <th scope="col">llnr</th>
                     <th scope="col">Voornaam</th>
@@ -42,7 +42,7 @@
                     <td>minstens een 1</td>
                 </tr>
                 <tr>
-                <th scope="row">322085</th>
+                    <th scope="row">322085</th>
                     <td>Wob</td>
                     <td>Fatpike</td>
                     <td><img src="./img/wubbit.png" width="40px" height="40px" /></td>
@@ -66,11 +66,11 @@
                     <td>++</td>
                 </tr>
                 <th scope="row">322961</th>
-                    <td>Robin</td>
-                    <td>van den Hoeven</td>
-                    <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
-                    <td>We zien t wel</td>
+                <td>Robin</td>
+                <td>van den Hoeven</td>
+                <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
+                <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
+                <td>We zien t wel</td>
             </tbody>
         </table>
     </div>

@@ -35,6 +35,8 @@
                 </tr>
             </tbody>
         </table>
+                
+        <a href="../index.php" type="button" class="btn btn-dark btn-lg">Dark</a>
     </div>
 
     <!-- Optional JavaScript -->
