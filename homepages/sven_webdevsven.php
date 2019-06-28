@@ -33,7 +33,7 @@
       <td>Applicatie en media ontwikkelaar</td>
       <td><img src="./toets/img/banaan.jpg"></td>
     </tr>
-    <button url="./toets/index.php"type="button" class="btn btn-primary">Primary</button>
+    <button href="./index.php" type="submit" class="btn btn-primary">Primary</button>
   </tbody>
 </table>
     </div>
