@@ -23,6 +23,10 @@
       <th scope="row">Leerlingnummer:</th>
       <td>322940</td>
     </tr>
+    <tr>
+      <th scope="row">Voornaam:</th>
+      <td>Robin</td>
+    </tr>
   </tbody>
 </table>
       </div>
