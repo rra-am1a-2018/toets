@@ -31,6 +31,10 @@
       <th scope="row">Tussenvoegsel:</th>
       <td>van den</td>
     </tr>
+    <tr>
+      <th scope="row">Achternaam:</th>
+      <td>Hoeven</td>
+    </tr>
   </tbody>
 </table>
       </div>
