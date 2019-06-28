@@ -36,7 +36,7 @@
                     <td>edgar</td>
                     <td>edgartje2002</td>
                     <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./">mijn homepage</a></td>
+                    <td><a href="./homepages/edgar_edgartje2002.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
             </tbody>

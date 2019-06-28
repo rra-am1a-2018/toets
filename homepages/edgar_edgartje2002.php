@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
+  <div class="container-fluid">
   <table class="table table-striped table-dark">
   <thead>
     <tr>
@@ -19,6 +20,7 @@
       <th scope="col">achternaam</th>
       <th scope="col">web</th>
       <th scope="col">avatar</th>
+      <th scope="col">knop</th>
     </tr>
   </thead>
   <tbody>
@@ -29,9 +31,9 @@
       <td></td>
       <td>kalachian</td>
       <td>web</td>
-      <td><img src="./toets/img/steen.jpg" alt="Smiley face" height="42" width="42"></td>
-      <a class="btn btn-primary" href="./arjan_rra-am1c-2018.php" role="terug">Link</a>
-
+      <td><img src="../img/steen.jpg" alt="niks" height="42" width="42"></td>
+      <td><a class="btn btn-primary" href="../index.php" role="link">terug</a></td>
+    </div>
     </tr>
      </tbody>
 </table>
