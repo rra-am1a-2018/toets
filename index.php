@@ -13,8 +13,8 @@
 <body>
     <div class="container-fluid">
         <h1>Toets - AM1A</h1>
-        <table class="table table-hover">
-            <thead>
+        <table class="table table-hover table-light">
+            <thead class=thead-dark>
                 <tr>
                     <th scope="col">llnr</th>
                     <th scope="col">Voornaam</th>
@@ -51,7 +51,7 @@
                     <td>minstens een 1</td>
                 </tr>
                 <tr>
-                <th scope="row">322085</th>
+                    <th scope="row">322085</th>
                     <td>Wob</td>
                     <td>Fatpike</td>
                     <td><img src="./img/wubbit.png" width="40px" height="40px" /></td>
@@ -59,7 +59,7 @@
                     <td>∞</td>
                 </tr>
                 <tr>
-                <th scope="row">310426</th>
+                    <th scope="row">310426</th>
                     <td>Richard</td>
                     <td>RiDi Cage</td>
                     <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
@@ -67,12 +67,20 @@
                     <td>++</td>
                 </tr>
                 <th scope="row">322961</th>
+<<<<<<< HEAD
                     <td>Robin</td>
                     <td>van den Hoeven</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
 >>>>>>> 5979225ee65635d8baba69ee7b2b3d59ac91563f
+=======
+                <td>Robin</td>
+                <td>van den Hoeven</td>
+                <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
+                <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
+                <td>We zien t wel</td>
+>>>>>>> 46175fc42092c4ee5264c4b01dce6e97d9f827d4
             </tbody>
         </table>
     </div>
