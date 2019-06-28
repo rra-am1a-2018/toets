@@ -28,8 +28,9 @@
     <tr>
       <th scope="row">320282</th>
       <td>Sven</td>
-      <td></td>
+      <td>de</td>
       <td>Oudakker</td>
+      <td>Applicatie en media ontwikkelaar</td>
     </tr>
   </tbody>
 </table>

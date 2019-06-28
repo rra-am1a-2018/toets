@@ -10,7 +10,7 @@
 
     <style>
         body {
-            background-color: pink;
+            background-color: blue;
         }
     </style>
 
@@ -32,6 +32,15 @@
                 </tr>
             </thead>
             <tbody>
+            <tr>
+                    <th scope="row">324643</th>
+                    <td>boris</td>
+                    <td>boris241</td>
+                    <td><img src="./img/boris.png" width="35px" height="35px" /></td>
+                    <td><a href="./homepages/boris_boris241.php">Mijn pagina</a></td>
+                    <td>6+</td>
+                </tr>
+
                 <tr>
                     <th scope="row">19686</th>
                     <td>Arjan</td>
@@ -41,7 +50,6 @@
                     <td>10+</td>
                 </tr>
                 <tr>
-<<<<<<< HEAD
                     <th scope="row">321091</th>
                     <td>Mick</td>
                     <td>MSchrijvers</td>
@@ -49,7 +57,7 @@
                     <td><a href="./homepages/mick_Mschrijvers.php">mijn homepage</a></td>
                     <td>6+</td>
                 </tr>
-=======
+                <tr>
                     <th scope="row">326650</th>
                     <td>Iwan</td>
                     <td>IJuanTM</td>
@@ -66,7 +74,15 @@
                     <td>∞</td>
                 </tr>
                 <tr>
-                    <th scope="row">310426</th>
+                    <th scope="row">320656</th>
+                    <td>Dirk</td>
+                    <td>dirkvansoest</td>
+                    <td><img src="./img/geo-nav.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dirk_dirkvansoest.php">mijn homepage</a></td>
+                    <td>20</td>
+                </tr>
+                <tr>
+                <th scope="row">310426</th>
                     <td>Richard</td>
                     <td>RiDi Cage</td>
                     <td><img src="https://avatars1.githubusercontent.com/u/50578628?s=460&v=4" width="40px" height="40px" /></td>
@@ -74,20 +90,13 @@
                     <td>++</td>
                 </tr>
                 <th scope="row">322961</th>
-<<<<<<< HEAD
+                <tr>
                     <td>Robin</td>
                     <td>van den Hoeven</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
                     <td>We zien t wel</td>
->>>>>>> 5979225ee65635d8baba69ee7b2b3d59ac91563f
-=======
-                <td>Robin</td>
-                <td>van den Hoeven</td>
-                <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
-                <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
-                <td>We zien t wel</td>
->>>>>>> 46175fc42092c4ee5264c4b01dce6e97d9f827d4
+                    </tr>
             </tbody>
         </table>
     </div>
