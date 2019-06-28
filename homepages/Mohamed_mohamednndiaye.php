@@ -1,3 +1,7 @@
+<?php
+  echo "Mijn homepage";
+?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -8,35 +12,35 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Toets</title>
+    <title>Mohamed Ndiaye</title>
   </head>
   <body>
     <div class="container-fluid">
-        <h1>Toets</h1>
-        <table class="table table-hover">
-            <thead>
-                <tr>
-                    <th scope="col">llnr</th>
-                    <th scope="col">Voornaam</th>
-                    <th scope="col">Githubnaam</th>
-                    <th scope="col">Avatar</th>
-                    <th scope="col">afstudeerrichting</th>
-                    <th scope="col">Cijfer voor pagina</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th scope="row">321091</th>
-                    <td>Mick</td>
-                    <td>MickSchrijvers</td>
-                    <td><img src="../img/opblaasbootje.jpg" width="40px" height="40px" /></td>
-                    <td>Webdeveloper</td>
-                    <td>6</td>
-                </tr>
-            </tbody>
-        </table>
-        <a class="btn btn-secondary btn-lg btn-block" href="../index.php" role="button">Terug</a>
-      </div>
+    <table class="table table-dark">
+  <thead>
+    <tr>
+      <th scope="col">llnr</th>
+      <th scope="col">Voornaam</th>
+      <th scope="col">Tussenvoegsel</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Afstudeerrichting</th>
+      <th scope="col">Avatar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+   
+  </tbody>
+</table>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
