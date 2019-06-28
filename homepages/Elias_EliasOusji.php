@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <th scope="row">Avatar:</th>
-      <td><img src="../img/robin.jpg" width="50px" height="50px"></td>
+      <td><img src="../img/Tony.jpg" width="50px" height="50px"></td>
     </tr>
   </tbody>
 </table>
