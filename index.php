@@ -37,7 +37,7 @@
                     <td>Sven</td>
                     <td>webdevsven</td>
                     <td><img src="./img/banaan.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/sven_webdevsven.php">Mijn homepage</a></td>
+                    <td><a href="./homepages/sven_webdevsven.php">Mijn pagina</a></td>
                     <td>10</td>
                 </tr>
                 <tr>
@@ -53,7 +53,7 @@
                     <td>Arjan</td>
                     <td>rra-am1c-2018</td>
                     <td><img src="./img/broc.jpg" width="40px" height="40px" /></td>
-                    <td><a href="../index.php">mijn homepage</a></td>
+                    <td><a href="../index.php">Mijn pagina</a></td>
                     <td>10+</td>
                 </tr>
                 <tr>
@@ -61,7 +61,7 @@
                     <td>edgar</td>
                     <td>edgartje2002</td>
                     <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/edgar_edgartje2002.php">mijn homepage</a></td>
+                    <td><a href="./homepages/edgar_edgartje2002.php">Mijn pagina</a></td>
                     <td>10+</td>
                 </tr>
                 <tr>
@@ -69,14 +69,14 @@
                     <td>Yoeri</td>
                     <td>Yoerivdb</td>
                     <td><img src="./img/pf.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/Yoeri_Yoerivdb.php">mijn homepage</a></td>
+                    <td><a href="./homepages/Yoeri_Yoerivdb.php">Mijn pagina</a></td>
                     <td>1+</td>
                 </tr>
                     <th scope="row">321091</th>
                     <td>Mick</td>
                     <td>MSchrijvers</td>
                     <td><img src="./img/opblaasbootje.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/mick_Mschrijvers.php">mijn homepage</a></td>
+                    <td><a href="./homepages/mick_Mschrijvers.php">Mijn pagina</a></td>
                     <td>6+</td>
                 </tr>
                 <tr>
@@ -84,7 +84,7 @@
                     <td>Iwan</td>
                     <td>IJuanTM</td>
                     <td><img src="./img/IJuanTM.png" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/Iwan_IJuanTM.php">Iwan's Pagina</a></td>
+                    <td><a href="./homepages/Iwan_IJuanTM.php">Mijn pagina</a></td>
                     <td>minstens een 1</td>
                 </tr>
                 <tr>
@@ -100,7 +100,7 @@
                     <td>Dirk</td>
                     <td>dirkvansoest</td>
                     <td><img src="./img/geo-nav.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/dirk_dirkvansoest.php">mijn homepage</a></td>
+                    <td><a href="./homepages/dirk_dirkvansoest.php">Mijn pagina</a></td>
                     <td>20</td>
                 </tr>
                 <tr>
@@ -116,7 +116,7 @@
                     <td>Robin</td>
                     <td>van den Hoeven</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/robin_J3wellZ.php">Robin's Pagina</a></td>
+                    <td><a href="./homepages/robin_J3wellZ.php">Mijn pagina</a></td>
                     <td>We zien t wel</td>
                     </tr>
                     
@@ -125,7 +125,7 @@
                     <td>Mert baba</td>
                     <td>Unlu</td>
                     <td><img src="./img/recep.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/mert_mert241.php">mert's Pagina</a></td>
+                    <td><a href="./homepages/mert_mert241.php">Mijn pagina</a></td>
                     <td>xx</td>
                     </tr>
                 </tr>
@@ -134,17 +134,16 @@
                     <td>collin</td>
                     <td>collinmarkus</td>
                     <td><img src="./img/ollie.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/Collin_collinmarkus.php">Collin's Pagina</a></td>
+                    <td><a href="./homepages/Collin_collinmarkus.php">Mijn pagina</a></td>
                     <td>dikke vette 3</td>
                 </tr>
                     <th scope="row">320713</th>
                     <td>Jordy Legemaat</td>
                     <td>jordylegemaat</td>
                     <td><img src="./img/kunst.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/jordy_jordylegemaat.php">Knap koppie pagina</a></td>
+                    <td><a href="./homepages/jordy_jordylegemaat.php">Mijn pagina</a></td>
                     <td>60 kilo</td>
                 </tr>
-<<<<<<< HEAD
                 <tr>
                     <th scope="row">322774</th>
                     <td>Elias</td>
@@ -159,12 +158,9 @@
                     <td>Mohamed</td>
                     <td>Mohamednndiaye</td>
                     <td><img src="./img/Mo.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/Mohamed_mohamednndiaye.php">Dit is mijn pagina</a></td>
+                    <td><a href="./homepages/Mohamed_mohamednndiaye.php">Mijn pagina</a></td>
                     <td>10</td>
                 </tr>
-<<<<<<< HEAD
-=======
->>>>>>> f01712f4fe96c59dd703ed095ce8ae0b57a4c570
 
             </tbody>
         </table>
